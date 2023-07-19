@@ -1,3 +1,3 @@
-<?php get_header();?>
-
-<?php get_footer();?>
+<div class="content">
+    <?php the_title( '<h3 class="text-danger">', '</h3>' ); ?>
+</div>
